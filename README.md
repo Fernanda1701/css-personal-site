@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://github.com/Fernanda1701/css-personal-site">CSS Personal Website🧾</a>
 </h1>
-<p align="center">Exemplo de site pessoal feito em HTML e CSS</p>
+<p align="center">Modelo de site pessoal feito em HTML e CSS</p>
 
 <h2 align="center">
 <img src="https://img.shields.io/static/v1?label=Status:&message=Completo ✅&color=32CD32&style=for-the-badge&logo=ghost"/>
