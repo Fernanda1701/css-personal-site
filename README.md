@@ -20,9 +20,7 @@ O site possui conteúdo centralizado com imagens e textos intercalados, para mai
 - [x] Twitter
 - [x] Website
 
-Você pode conferir o resultado do projeto no seguinte link:
-
-https://fernanda1701.github.io/css-personal-site/
+Você pode conferir o <b>resultado do projeto ➞ <a href="https://fernanda1701.github.io/css-personal-site/">Clicando aqui!<a></b>
 
 
 ## 🛠 Tecnologias
