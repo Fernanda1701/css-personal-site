@@ -27,7 +27,7 @@ Você pode conferir o <b>resultado do projeto ➞ <a href="https://fernanda1701.
  
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- Versionamento de código no [GitHub](https://github.com/)
+- Versionamento de código no [Git](https://git-scm.com/)
 
 ## 💻 IDE
 
